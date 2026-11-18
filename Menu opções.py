@@ -69,4 +69,4 @@ while True:
 
 
     else:
-        print("\nOpção inválida! Escolha uma opção de 1 a 4.")
+        print("\nOpção inválida! Escolha uma opção de 1 - 4.")
