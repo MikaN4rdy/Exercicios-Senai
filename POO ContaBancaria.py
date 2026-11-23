@@ -20,5 +20,5 @@ print("Saldo inicial", conta.get_saldo())
 valor = float(input("Digite o valor do depósito."))
 conta.depositar(valor)
 
-#Mostrando saldo
+# Mostrando saldo
 print("Saldo atual: ", conta.get_saldo())
