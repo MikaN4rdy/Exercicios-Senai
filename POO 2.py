@@ -10,7 +10,7 @@ class Produto:
                 print(f"Estoque: {self.estoque}")
                 print("-" * 80)
 
-
+#Produto 2
 p1 = Produto("Arroz", 5.99, 30)
 p2 = Produto
 
